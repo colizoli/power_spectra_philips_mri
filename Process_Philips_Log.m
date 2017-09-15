@@ -1,4 +1,4 @@
-%% Processs the Physiology LOG files from a Philips MRI scanner
+%% Process the Physiology LOG files from a Philips MRI scanner
 % O. Colizoli, 2017
 % Heart rate and respiration data extracted from .log to .MAT file
 % Imports all scan logs ('*.log')
