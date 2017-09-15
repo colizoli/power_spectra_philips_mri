@@ -9,7 +9,7 @@
 % for heart rate and respiration - 4 figures in total)
 
 % NOTES:
-% This script plots one subject's example data from a 3T Philiph's Achieva MRI system
+% This script plots one subject's example data from a 3T Philip's Achieva MRI system
 % The subject was scanned in 4 sessions, with 7 runs per session
 
 %% Set parameters, load data
